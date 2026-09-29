@@ -1,6 +1,32 @@
 // User-supplied registration links. Keep these separate from the report-generated data.
 window.SUPPLEMENTAL_SITES = [
   {
+    id: "aff-dshapi",
+    name: "DSH API",
+    url: "https://api.dshapi.icu/",
+    affiliateUrl: "https://api.dshapi.icu/r/T8KiaeGU",
+    domain: "api.dshapi.icu",
+    group: "高级推广",
+    category: "通用 API",
+    status: "direct",
+    statusLabel: "可直接注册",
+    registration: "QQ 邮箱注册，无需海外手机号；推荐用邀请链接注册",
+    registrationGuide: "打开推荐链接→QQ 邮箱注册→登录后在「API 密钥」页创建 key。注册后默认为国模分组（0.08x）。",
+    quota: "注册即用，按量计费（人民币）；实测 1 元人民币可跑超过官网同等价 10 倍的 token 量",
+    reachability: "2026-09-30 实测 /v1/models、/v1/chat/completions、/v1/responses、/v1/messages 四端点均 200",
+    note: "国模分组 0.08x（官网价 8%）；同一个 base URL 同时支持 OpenAI 与 Anthropic 协议，Claude Code / Codex CLI 不改代码可接入。支付宝 / 微信充值，余额不过期。",
+    source: "2026-09-30 自测：账号后台显示国模分组 0.08x，已用 30,734 次请求、累计 40.7 亿 token，实付 ¥28.67，平台标准价 ¥359.51；四端点均 200 返回。",
+    topicUrls: [],
+    affiliate: true,
+    mainlandAccess: "available",
+    offerLabelOverride: "新用户注册",
+    offerKindOverride: "affiliate",
+    ratingOverride: 3,
+    recommendationRank: 1,
+    updatedAt: "2026-09-30",
+    verified: "2026-09-30 实测四端点"
+  },
+  {
     id: "aff-workbuddy",
     name: "WorkBuddy",
     url: "https://www.workbuddy.cn/",
