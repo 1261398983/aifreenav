@@ -4,7 +4,7 @@ window.SUPPLEMENTAL_SITES = [
     id: "aff-97wl",
     name: "97wl",
     url: "https://api.97wl.cc/",
-    affiliateUrl: "https://api.97wl.cc/r/T8KiaeGU",
+    affiliateUrl: "https://api.97wl.cc/",
     domain: "api.97wl.cc",
     group: "高级推广",
     category: "通用 API",
