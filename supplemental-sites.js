@@ -1,11 +1,11 @@
 // User-supplied registration links. Keep these separate from the report-generated data.
 window.SUPPLEMENTAL_SITES = [
   {
-    id: "aff-dshapi",
-    name: "DSH API",
-    url: "https://api.dshapi.icu/",
-    affiliateUrl: "https://api.dshapi.icu/r/T8KiaeGU",
-    domain: "api.dshapi.icu",
+    id: "aff-97wl",
+    name: "97wl",
+    url: "https://api.97wl.cc/",
+    affiliateUrl: "https://api.97wl.cc/r/T8KiaeGU",
+    domain: "api.97wl.cc",
     group: "高级推广",
     category: "通用 API",
     status: "direct",
