@@ -11,7 +11,7 @@
 
 **在线体验：[aifreenav.pages.dev](https://aifreenav.pages.dev/)**
 
-![AI FreeNav current directory preview](github-directory.png)
+> 界面预览请直接访问在线站点（下方链接），此处不再嵌入截图。
 
 如果这个目录帮你节省了查找时间，欢迎在 GitHub 点一个 Star，并反馈已经失效或值得补充的站点。
 
